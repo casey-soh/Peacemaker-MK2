@@ -11,5 +11,19 @@
     "bot"
   ],
   "author": "Casey Soh",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casey-soh/Peacemaker-MK2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/casey-soh/Peacemaker-MK2/issues"
+  },
+  "homepage": "https://github.com/casey-soh/Peacemaker-MK2#readme",
+  "dependencies": {
+    "discord.js": "^14.17.2"
+  },
+  "devDependencies": {
+    "eslint": "^9.17.0"
+  }
 }
